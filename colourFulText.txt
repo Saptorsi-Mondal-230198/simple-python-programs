@@ -1,0 +1,21 @@
+[Bright Red][Background Bright Cyan]
+
+                                              _
+                                             | |
+                                             |_|
+[Bright Green][Background Bright Yellow]
+                                         ____   __  __
+                                        / () \ |  \/  |
+                                       /__/\__\|_|\/|_|
+[Bright Blue][Background Bright White]
+                                        ____  __  _
+                                       / () \|  \| |
+                                       \____/|_|\__|
+[Bright Yellow][Background Bright Cyan]
+                                        __  __ __  __
+                                       |  \/  |\ \/ /
+                                       |_|\/|_| |__|
+[Bright Magenta][Background Bright Green]
+                                    __    __ ____ __  __
+                                    \ \/\/ // () \\ \/ /
+                                     \_/\_//__/\__\|__|
